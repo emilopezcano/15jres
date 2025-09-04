@@ -1,0 +1,10 @@
+---
+title: "EVASTUR: Una experiencia de colaboración público-privada 'full-stack' con R"
+format: html
+author: Emilio López Cano, Isaac Martín de Diego, Carmen Lancho Martín, Marina Cuesta Santa Teresa, Rubén Rodríguez Fernández, Natalia Madrueño Sierro, Víctor Aceña Gil, Javier Saugar López, Antonio Amado Eguiagaray
+embed-resources: true
+---
+
+## Resumen
+
+En este trabajo se presenta una experiencia de colaboración público-privada en la que se ha desarrollado un producto de ciencia e ingeniería de datos íntegramente con R. Se trata de una plataforma completa desarrollada con Shiny, pero que va mucho más allá del típico dashboard de visualización. La plataforma es un sistema completo de exploración, visualización y análisis de indicadores de turismo sostenible, que incluye una base de datos normalizada y su gestión desde la propia aplicación shiny (carga y actualización de datos, creación de indicadores y configuración) con complejos procesos ETL integrados. El producto está en fase de comercialización, y es un ejemplo de cómo se puede llegar al mercado con R y otras tecnologías libres sin prejuicios ni limitaciones. En la presentación se pondrán de relieve algunos retos a los que se ha enfrentado el proyecto y se mostrarán algunas de sus características.
