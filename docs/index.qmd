@@ -48,7 +48,7 @@ Source: [R for Data Science](https://r4ds.hadley.nz) (Wickham, Çetinkaya-Rundel
 
 * [Deployment]{.red} puede incluir muchas cosas distintas.
 
-* El [use]{.red} de los modelos.
+* El [uso]{.red} de los modelos.
 
 * La [visualización]{.red} de resultados.
 
@@ -289,10 +289,11 @@ Source: <a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagra
 
 * Buena acogida en organismos nacionales e internacionales.
 
+* Estándares, trazabilidad y transparencia.
+
 * Aplicable a otros dominios de la estadística pública o privada.
 
-* Automatic reporting
-
+* Si necesitas algo parecido, contacta 😉
 
 
 
@@ -310,11 +311,11 @@ Source: <a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagra
 𝑿 [@emilopezcano](https://twitter.com/emilopezcano)
 
 
-[https://lcano.com](https://lcano.com)
+🔗 [lcano.com](https://lcano.com)
 
-[emilio.lopez@urjc.es]{.red}
+📧 [emilio.lopez@urjc.es]{.red}
 
-<!-- Slides: [emilio.lcano.com/p/enbis2023](http://emilio.lcano.com/p/enbis2023/#/title-slide) -->
+Slides: <https://emilopezcano.github.io/15jres/>
 
 \
 
