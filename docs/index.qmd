@@ -244,6 +244,8 @@ Source: <a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagra
 
 ## [Dev] Buenas prácticas Ing. Software
 
+* Proceso de co-creación.
+
 * Entornos con [renv](https://rstudio.github.io/renv/index.html).
 
 * Pruebas con [testthat](https://testthat.r-lib.org) y [shinytest](https://rstudio.github.io/shinytest/).
